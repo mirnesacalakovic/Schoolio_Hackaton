@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F1A39B-24D0-48AF-8ADD-B617EA8E8E38}|SchoolioBackend\\SchoolioBackend.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\schooliobackend\\schooliobackend\\schooliobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90F1A39B-24D0-48AF-8ADD-B617EA8E8E38}|SchoolioBackend\\SchoolioBackend.csproj|solutionrelative:schooliobackend\\schooliobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F1A39B-24D0-48AF-8ADD-B617EA8E8E38}|SchoolioBackend\\SchoolioBackend.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\schooliobackend\\schooliobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F1A39B-24D0-48AF-8ADD-B617EA8E8E38}|SchoolioBackend\\SchoolioBackend.csproj|solutionrelative:schooliobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F1A39B-24D0-48AF-8ADD-B617EA8E8E38}|SchoolioBackend\\SchoolioBackend.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\schooliobackend\\schooliobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90F1A39B-24D0-48AF-8ADD-B617EA8E8E38}|SchoolioBackend\\SchoolioBackend.csproj|solutionrelative:schooliobackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\SchoolioBackend\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolioBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\SchoolioBackend\\Program.cs",
+              "RelativeToolTip": "SchoolioBackend\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:51:28.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolioBackend",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\SchoolioBackend\\SchoolioBackend.csproj",
+              "RelativeDocumentMoniker": "SchoolioBackend\\SchoolioBackend.csproj",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\SchoolioBackend\\SchoolioBackend.csproj",
+              "RelativeToolTip": "SchoolioBackend\\SchoolioBackend.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T17:48:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\SchoolioBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolioBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\SchoolioBackend\\SchoolioBackend\\appsettings.json",
+              "RelativeToolTip": "SchoolioBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T17:43:54.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
